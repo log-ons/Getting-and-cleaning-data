@@ -2,11 +2,11 @@
 
 # Getting-and-cleaning-data
 
-#To run sun_analysis.R
+#To run run_analysis.R
 Download the zip file from this URL.
 Unzip the file in workinf directory
 
-After unzip, plesae run R script run_analusis.R - 
+After unzip, plesae run R script run_analysis.R - 
 #Library Used
 library(data.table)
 library(dplyr)
