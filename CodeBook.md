@@ -25,6 +25,7 @@ Name abbrevations -
  	Gyro - Gyroscope"
  
  ==================================
+ 
 "tBodyAcc-mean()-X"  
 
 "tBodyAcc-mean()-Y"
