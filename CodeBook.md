@@ -13,12 +13,18 @@ After running run_analysis.R, it will generate 81 column fille having mean and s
 "activity"   - Activity like Waking,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING
 
 -- Below are mean and stansard deviation for each mesurement.
+
 Name abbrevations -
- t - Measure in time
- f - Frequency measured in Hz
- Acc - Accelerometer
- Gyro - Gyroscope"
+
+	 t - Measure in time
  
+	 f - Frequency measured in Hz
+ 
+	 Acc - Accelerometer
+ 
+ 	Gyro - Gyroscope"
+ 
+ ==================================
 "tBodyAcc-mean()-X"  
 
 "tBodyAcc-mean()-Y"
